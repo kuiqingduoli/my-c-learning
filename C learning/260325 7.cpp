@@ -3,7 +3,7 @@
 int main() 
 {
 	int n;
-	printf("请输入一个非负整数\n");
+	printf("璇疯緭鍏ヤ竴涓潪璐熸暣鏁癨n");
 	scanf("%d",&n);
 	int j=n;
 	int count=0;
