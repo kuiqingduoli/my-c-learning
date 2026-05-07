@@ -22,7 +22,7 @@ I believe **"Code is the best note"**. Even the simplest, most naive code files 
 
 ## 🚀 From Practice to Projects
 
-This repository focuses on **daily practice and syntax learning**. For more structured, project-oriented code, check out my **[my-C-projects](你的my-C-projects仓库链接)** repository, where I've organized complete applications with proper engineering structure.
+This repository focuses on **daily practice and syntax learning**. For more structured, project-oriented code, check out my (https://github.com/kuiqingduoli/my-C-projects) repository, where I've organized complete applications with proper engineering structure.
 
 ## 🎯 What You'll Find Here
 
